@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "lib": ["dom", "es6"],
+      "jsx": "react",
+      "module": "esnext",
+      "moduleResolution": "node",
+      "skipLibCheck": true,
+      "esModuleInterop": true,
+      "forceConsistentCasingInFileNames": true,
+      "strict": true,
+      "outDir": "./dist"
+    },
+    "include": ["src"]
+  }
+  
